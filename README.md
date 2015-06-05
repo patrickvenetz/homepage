@@ -1,1 +1,3 @@
-# homepage
+# Homepage
+
+A rather simple homepage.
